@@ -7,5 +7,5 @@ My coding interests include:
   - Bash scripts
   - C++ arduino projects 
   
-If you like any of my projects feel free to fork them or contribute. 
+If you like my code then please feel free to fork them or contribute. 
 You can also reach out to me at apmech707@gmail.com
